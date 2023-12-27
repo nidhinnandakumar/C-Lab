@@ -1,0 +1,14 @@
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\TypeValidation\obj\Debug\net6.0\TypeValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\TypeValidation\obj\Debug\net6.0\TypeValidation.AssemblyInfoInputs.cache
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\TypeValidation\obj\Debug\net6.0\TypeValidation.AssemblyInfo.cs
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\TypeValidation\obj\Debug\net6.0\TypeValidation.csproj.CoreCompileInputs.cache
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\TypeValidation\bin\Debug\net6.0\TypeValidation.exe
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\TypeValidation\bin\Debug\net6.0\TypeValidation.deps.json
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\TypeValidation\bin\Debug\net6.0\TypeValidation.runtimeconfig.json
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\TypeValidation\bin\Debug\net6.0\TypeValidation.dll
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\TypeValidation\bin\Debug\net6.0\TypeValidation.pdb
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\TypeValidation\obj\Debug\net6.0\TypeValidation.dll
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\TypeValidation\obj\Debug\net6.0\refint\TypeValidation.dll
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\TypeValidation\obj\Debug\net6.0\TypeValidation.pdb
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\TypeValidation\obj\Debug\net6.0\TypeValidation.genruntimeconfig.cache
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\TypeValidation\obj\Debug\net6.0\ref\TypeValidation.dll

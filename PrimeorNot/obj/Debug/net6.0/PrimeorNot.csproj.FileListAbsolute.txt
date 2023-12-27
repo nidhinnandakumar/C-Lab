@@ -1,0 +1,14 @@
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\PrimeorNot\bin\Debug\net6.0\PrimeorNot.exe
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\PrimeorNot\bin\Debug\net6.0\PrimeorNot.deps.json
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\PrimeorNot\bin\Debug\net6.0\PrimeorNot.runtimeconfig.json
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\PrimeorNot\bin\Debug\net6.0\PrimeorNot.dll
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\PrimeorNot\bin\Debug\net6.0\PrimeorNot.pdb
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\PrimeorNot\obj\Debug\net6.0\PrimeorNot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\PrimeorNot\obj\Debug\net6.0\PrimeorNot.AssemblyInfoInputs.cache
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\PrimeorNot\obj\Debug\net6.0\PrimeorNot.AssemblyInfo.cs
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\PrimeorNot\obj\Debug\net6.0\PrimeorNot.csproj.CoreCompileInputs.cache
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\PrimeorNot\obj\Debug\net6.0\PrimeorNot.dll
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\PrimeorNot\obj\Debug\net6.0\refint\PrimeorNot.dll
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\PrimeorNot\obj\Debug\net6.0\PrimeorNot.pdb
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\PrimeorNot\obj\Debug\net6.0\PrimeorNot.genruntimeconfig.cache
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\PrimeorNot\obj\Debug\net6.0\ref\PrimeorNot.dll

@@ -1,0 +1,14 @@
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\FileDemo\obj\Debug\net6.0\FileDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\FileDemo\obj\Debug\net6.0\FileDemo.AssemblyInfoInputs.cache
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\FileDemo\obj\Debug\net6.0\FileDemo.AssemblyInfo.cs
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\FileDemo\obj\Debug\net6.0\FileDemo.csproj.CoreCompileInputs.cache
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\FileDemo\bin\Debug\net6.0\FileDemo.exe
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\FileDemo\bin\Debug\net6.0\FileDemo.deps.json
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\FileDemo\bin\Debug\net6.0\FileDemo.runtimeconfig.json
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\FileDemo\bin\Debug\net6.0\FileDemo.dll
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\FileDemo\bin\Debug\net6.0\FileDemo.pdb
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\FileDemo\obj\Debug\net6.0\FileDemo.dll
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\FileDemo\obj\Debug\net6.0\refint\FileDemo.dll
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\FileDemo\obj\Debug\net6.0\FileDemo.pdb
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\FileDemo\obj\Debug\net6.0\FileDemo.genruntimeconfig.cache
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\FileDemo\obj\Debug\net6.0\ref\FileDemo.dll

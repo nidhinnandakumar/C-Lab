@@ -1,0 +1,14 @@
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\MethodParamsDemo\bin\Debug\net6.0\MethodParamsDemo.exe
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\MethodParamsDemo\bin\Debug\net6.0\MethodParamsDemo.deps.json
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\MethodParamsDemo\bin\Debug\net6.0\MethodParamsDemo.runtimeconfig.json
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\MethodParamsDemo\bin\Debug\net6.0\MethodParamsDemo.dll
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\MethodParamsDemo\bin\Debug\net6.0\MethodParamsDemo.pdb
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\MethodParamsDemo\obj\Debug\net6.0\MethodParamsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\MethodParamsDemo\obj\Debug\net6.0\MethodParamsDemo.AssemblyInfoInputs.cache
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\MethodParamsDemo\obj\Debug\net6.0\MethodParamsDemo.AssemblyInfo.cs
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\MethodParamsDemo\obj\Debug\net6.0\MethodParamsDemo.csproj.CoreCompileInputs.cache
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\MethodParamsDemo\obj\Debug\net6.0\MethodParamsDemo.dll
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\MethodParamsDemo\obj\Debug\net6.0\refint\MethodParamsDemo.dll
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\MethodParamsDemo\obj\Debug\net6.0\MethodParamsDemo.pdb
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\MethodParamsDemo\obj\Debug\net6.0\MethodParamsDemo.genruntimeconfig.cache
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\MethodParamsDemo\obj\Debug\net6.0\ref\MethodParamsDemo.dll

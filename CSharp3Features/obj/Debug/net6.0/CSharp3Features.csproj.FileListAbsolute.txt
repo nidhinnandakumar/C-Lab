@@ -1,0 +1,14 @@
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\CSharp3Features\bin\Debug\net6.0\CSharp3Features.exe
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\CSharp3Features\bin\Debug\net6.0\CSharp3Features.deps.json
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\CSharp3Features\bin\Debug\net6.0\CSharp3Features.runtimeconfig.json
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\CSharp3Features\bin\Debug\net6.0\CSharp3Features.dll
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\CSharp3Features\bin\Debug\net6.0\CSharp3Features.pdb
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\CSharp3Features\obj\Debug\net6.0\CSharp3Features.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\CSharp3Features\obj\Debug\net6.0\CSharp3Features.AssemblyInfoInputs.cache
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\CSharp3Features\obj\Debug\net6.0\CSharp3Features.AssemblyInfo.cs
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\CSharp3Features\obj\Debug\net6.0\CSharp3Features.csproj.CoreCompileInputs.cache
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\CSharp3Features\obj\Debug\net6.0\CSharp3Features.dll
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\CSharp3Features\obj\Debug\net6.0\refint\CSharp3Features.dll
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\CSharp3Features\obj\Debug\net6.0\CSharp3Features.pdb
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\CSharp3Features\obj\Debug\net6.0\CSharp3Features.genruntimeconfig.cache
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\CSharp3Features\obj\Debug\net6.0\ref\CSharp3Features.dll

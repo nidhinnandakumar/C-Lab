@@ -1,0 +1,14 @@
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\FileStreamDemo\bin\Debug\net6.0\FileStreamDemo.exe
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\FileStreamDemo\bin\Debug\net6.0\FileStreamDemo.deps.json
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\FileStreamDemo\bin\Debug\net6.0\FileStreamDemo.runtimeconfig.json
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\FileStreamDemo\bin\Debug\net6.0\FileStreamDemo.dll
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\FileStreamDemo\bin\Debug\net6.0\FileStreamDemo.pdb
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\FileStreamDemo\obj\Debug\net6.0\FileStreamDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\FileStreamDemo\obj\Debug\net6.0\FileStreamDemo.AssemblyInfoInputs.cache
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\FileStreamDemo\obj\Debug\net6.0\FileStreamDemo.AssemblyInfo.cs
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\FileStreamDemo\obj\Debug\net6.0\FileStreamDemo.csproj.CoreCompileInputs.cache
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\FileStreamDemo\obj\Debug\net6.0\FileStreamDemo.dll
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\FileStreamDemo\obj\Debug\net6.0\refint\FileStreamDemo.dll
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\FileStreamDemo\obj\Debug\net6.0\FileStreamDemo.pdb
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\FileStreamDemo\obj\Debug\net6.0\FileStreamDemo.genruntimeconfig.cache
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\FileStreamDemo\obj\Debug\net6.0\ref\FileStreamDemo.dll

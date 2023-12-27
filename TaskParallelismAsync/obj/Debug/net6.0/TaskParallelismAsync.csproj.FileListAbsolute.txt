@@ -1,0 +1,14 @@
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\TaskParallelismAsync\obj\Debug\net6.0\TaskParallelismAsync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\TaskParallelismAsync\obj\Debug\net6.0\TaskParallelismAsync.AssemblyInfoInputs.cache
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\TaskParallelismAsync\obj\Debug\net6.0\TaskParallelismAsync.AssemblyInfo.cs
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\TaskParallelismAsync\obj\Debug\net6.0\TaskParallelismAsync.csproj.CoreCompileInputs.cache
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\TaskParallelismAsync\bin\Debug\net6.0\TaskParallelismAsync.exe
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\TaskParallelismAsync\bin\Debug\net6.0\TaskParallelismAsync.deps.json
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\TaskParallelismAsync\bin\Debug\net6.0\TaskParallelismAsync.runtimeconfig.json
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\TaskParallelismAsync\bin\Debug\net6.0\TaskParallelismAsync.dll
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\TaskParallelismAsync\bin\Debug\net6.0\TaskParallelismAsync.pdb
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\TaskParallelismAsync\obj\Debug\net6.0\TaskParallelismAsync.dll
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\TaskParallelismAsync\obj\Debug\net6.0\refint\TaskParallelismAsync.dll
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\TaskParallelismAsync\obj\Debug\net6.0\TaskParallelismAsync.pdb
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\TaskParallelismAsync\obj\Debug\net6.0\TaskParallelismAsync.genruntimeconfig.cache
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\TaskParallelismAsync\obj\Debug\net6.0\ref\TaskParallelismAsync.dll

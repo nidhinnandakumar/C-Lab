@@ -1,0 +1,14 @@
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\ShapeDemo\bin\Debug\net6.0\ShapeDemo.exe
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\ShapeDemo\bin\Debug\net6.0\ShapeDemo.deps.json
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\ShapeDemo\bin\Debug\net6.0\ShapeDemo.runtimeconfig.json
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\ShapeDemo\bin\Debug\net6.0\ShapeDemo.dll
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\ShapeDemo\bin\Debug\net6.0\ShapeDemo.pdb
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\ShapeDemo\obj\Debug\net6.0\ShapeDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\ShapeDemo\obj\Debug\net6.0\ShapeDemo.AssemblyInfoInputs.cache
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\ShapeDemo\obj\Debug\net6.0\ShapeDemo.AssemblyInfo.cs
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\ShapeDemo\obj\Debug\net6.0\ShapeDemo.csproj.CoreCompileInputs.cache
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\ShapeDemo\obj\Debug\net6.0\ShapeDemo.dll
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\ShapeDemo\obj\Debug\net6.0\refint\ShapeDemo.dll
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\ShapeDemo\obj\Debug\net6.0\ShapeDemo.pdb
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\ShapeDemo\obj\Debug\net6.0\ShapeDemo.genruntimeconfig.cache
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\ShapeDemo\obj\Debug\net6.0\ref\ShapeDemo.dll

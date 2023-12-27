@@ -1,0 +1,14 @@
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\HelloWorld3\bin\Debug\net6.0\HelloWorld3.exe
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\HelloWorld3\bin\Debug\net6.0\HelloWorld3.deps.json
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\HelloWorld3\bin\Debug\net6.0\HelloWorld3.runtimeconfig.json
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\HelloWorld3\bin\Debug\net6.0\HelloWorld3.dll
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\HelloWorld3\bin\Debug\net6.0\HelloWorld3.pdb
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\HelloWorld3\obj\Debug\net6.0\HelloWorld3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\HelloWorld3\obj\Debug\net6.0\HelloWorld3.AssemblyInfoInputs.cache
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\HelloWorld3\obj\Debug\net6.0\HelloWorld3.AssemblyInfo.cs
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\HelloWorld3\obj\Debug\net6.0\HelloWorld3.csproj.CoreCompileInputs.cache
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\HelloWorld3\obj\Debug\net6.0\HelloWorld3.dll
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\HelloWorld3\obj\Debug\net6.0\refint\HelloWorld3.dll
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\HelloWorld3\obj\Debug\net6.0\HelloWorld3.pdb
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\HelloWorld3\obj\Debug\net6.0\HelloWorld3.genruntimeconfig.cache
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\HelloWorld3\obj\Debug\net6.0\ref\HelloWorld3.dll

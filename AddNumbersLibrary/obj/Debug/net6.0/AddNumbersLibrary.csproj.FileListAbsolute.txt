@@ -1,0 +1,11 @@
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\AddNumbersLibrary\bin\Debug\net6.0\AddNumbersLibrary.deps.json
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\AddNumbersLibrary\bin\Debug\net6.0\AddNumbersLibrary.dll
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\AddNumbersLibrary\bin\Debug\net6.0\AddNumbersLibrary.pdb
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\AddNumbersLibrary\obj\Debug\net6.0\AddNumbersLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\AddNumbersLibrary\obj\Debug\net6.0\AddNumbersLibrary.AssemblyInfoInputs.cache
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\AddNumbersLibrary\obj\Debug\net6.0\AddNumbersLibrary.AssemblyInfo.cs
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\AddNumbersLibrary\obj\Debug\net6.0\AddNumbersLibrary.csproj.CoreCompileInputs.cache
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\AddNumbersLibrary\obj\Debug\net6.0\AddNumbersLibrary.dll
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\AddNumbersLibrary\obj\Debug\net6.0\refint\AddNumbersLibrary.dll
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\AddNumbersLibrary\obj\Debug\net6.0\AddNumbersLibrary.pdb
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\AddNumbersLibrary\obj\Debug\net6.0\ref\AddNumbersLibrary.dll

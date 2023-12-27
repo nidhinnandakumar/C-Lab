@@ -1,0 +1,14 @@
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\FileSystemWatcherDemo\bin\Debug\net6.0\FileSystemWatcherDemo.exe
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\FileSystemWatcherDemo\bin\Debug\net6.0\FileSystemWatcherDemo.deps.json
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\FileSystemWatcherDemo\bin\Debug\net6.0\FileSystemWatcherDemo.runtimeconfig.json
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\FileSystemWatcherDemo\bin\Debug\net6.0\FileSystemWatcherDemo.dll
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\FileSystemWatcherDemo\bin\Debug\net6.0\FileSystemWatcherDemo.pdb
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\FileSystemWatcherDemo\obj\Debug\net6.0\FileSystemWatcherDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\FileSystemWatcherDemo\obj\Debug\net6.0\FileSystemWatcherDemo.AssemblyInfoInputs.cache
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\FileSystemWatcherDemo\obj\Debug\net6.0\FileSystemWatcherDemo.AssemblyInfo.cs
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\FileSystemWatcherDemo\obj\Debug\net6.0\FileSystemWatcherDemo.csproj.CoreCompileInputs.cache
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\FileSystemWatcherDemo\obj\Debug\net6.0\FileSystemWatcherDemo.dll
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\FileSystemWatcherDemo\obj\Debug\net6.0\refint\FileSystemWatcherDemo.dll
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\FileSystemWatcherDemo\obj\Debug\net6.0\FileSystemWatcherDemo.pdb
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\FileSystemWatcherDemo\obj\Debug\net6.0\FileSystemWatcherDemo.genruntimeconfig.cache
+C:\Users\nidhin.nandakumar\Desktop\LABS\CSharpLabs1\FileSystemWatcherDemo\obj\Debug\net6.0\ref\FileSystemWatcherDemo.dll
